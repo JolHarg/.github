@@ -1,2 +1,0 @@
-# .github
-JolHarg GitHub description
